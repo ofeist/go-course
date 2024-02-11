@@ -1,0 +1,7 @@
+go-course.txt
+---
+
+- resources
+    https://github.com/kodekloudhub/golang
+
+
